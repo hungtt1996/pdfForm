@@ -1,0 +1,40 @@
+package com.giacom.model;
+
+public class CustomerInfo {
+	private String fullName;
+	private String gttt;
+	private String issueDate;
+	private String issuesAddress;
+	private String mobilePhone;
+	private String otherPhone;
+	private String gender;
+	private String birthDate;
+	private String birthPlace;
+	private String nationality;
+	private String cuTru;
+	private String hoKhau;
+	private String phuongXa;
+	private String quanHuyen;
+	private String tinhTp;
+	private String currentAddress;
+	private Boolean isSameAddress;
+	private String otherAdd;
+	private String otherPhuong;
+	private String otherQuan;
+	private String otherTinh;
+	private String job;
+	private String chucVu;
+	private String thuNhap;
+	private Boolean isCC ;
+	private Boolean isMarried;
+	private String otherMarried;
+	private String school;
+	private String otherNationality;
+	private String soThiThuc;
+	private String fromDate;
+	private String toDate;
+	private String ngayNhapCanh;
+	private String cuaKhau;
+	private String diaChiVN;
+	private String diaChiNN;
+}
